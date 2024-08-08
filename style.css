@@ -12,5 +12,6 @@ html{
 }
 
 .tenor-gif-embed{
+  margin-top: 175px;
   transform: rotate(-90deg);
 }
