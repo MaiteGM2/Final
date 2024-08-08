@@ -1,0 +1,16 @@
+html{
+    margin: 0;
+    padding: 20px;
+    font-family: "Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+    background-color: #FF878C;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tenor-gif-embed{
+  transform: rotate(-90deg);
+}
